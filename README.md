@@ -1,2 +1,2 @@
-- Click => https://classroom.github.com/assignment-invitations/49c94355f917d632c18ce8d4ef25b4b4
-- HW: Final Project: Choose 1 past project to improve.
+- HW: 7/Media: Load and display media, including images and fonts.
+- HW: Click the link: https://classroom.github.com/assignment-invitations/79214ff81ca3961b0df7922d2dbded39. Create an interactive collage using found images. See the following link to create your own server before previewing images: https://github.com/processing/p5.js/wiki/Local-server. Host your website on github.io. Inspiration: https://en.wikipedia.org/wiki/File:Hoch-Cut_With_the_Kitchen_Knife.jpg, https://en.wikipedia.org/wiki/File:Pablo_Picasso,_1913-14,_Head_(T%C3%AAte),_cut_and_pasted_colored_paper,_gouache_and_charcoal_on_paperboard,_43.5_x_33_cm,_Scottish_National_Gallery_of_Modern_Art,_Edinburgh.jpg, https://en.wikipedia.org/wiki/File:DasUndbild.jpg, https://en.wikipedia.org/wiki/File:Hamilton-appealing2.jpg 
