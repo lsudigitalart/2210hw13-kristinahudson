@@ -46,7 +46,8 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(1000, 875);
+  createCanvas(800, 875);
+  noCursor();
   song.loop();
   for (var i = 0; i < num; i++) {
     x[i] = 0;
@@ -60,6 +61,10 @@ function setup() {
   y6s = random(0, 10);
   y7s = random(0, 10);
   y8s = random(0, 10);
+
+  textSize(32);
+  text("there is music that sounds from the streets", 10, 30);
+  fill(0, 102, 153);
 
 }
 
